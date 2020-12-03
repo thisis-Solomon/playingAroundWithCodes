@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+.nav-container {
+    background: black;
+    color: white;
+    height: 10vh;
+}
+.nav-container-item {
+    display: flex;
+    flex-direction: 'row';
+    justify-content: space-between;
+    align-items: 'center'
+}
+
+ul{
+    text-decoration: 'none';
+}
